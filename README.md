@@ -136,9 +136,9 @@ Data: 2GB/day, Validity: 28 days, Price: ₹299
 
 ## 💡 Example Inputs
 
-* Airtel 299 28 days
-* Jio 500 56 days
-* VI 200 14 days
+* Airtel,299,28 days
+* Jio,500,56 days
+* VI,200,14 days
 
 ---
 
