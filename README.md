@@ -70,7 +70,7 @@
 git clone https://github.com/Aditiyakesavaraj/Chatbot-for-Sim-Plan-Details.git
 cd Chatbot-for-Sim-Plan-Details
 pip install -r requirements.txt
-python app.py
+python3 app.py
 ```
 
 👉 Open: http://127.0.0.1:5000/
