@@ -57,8 +57,6 @@
  ┃ ┗ 📜 index.html
  ┣ 📂 static
  ┃ ┗ 📜 style.css
- ┣ 📂 screenshots
- ┃ ┗ 📜 chat-ui.png
  ┗ 📜 README.md
 ```
 
