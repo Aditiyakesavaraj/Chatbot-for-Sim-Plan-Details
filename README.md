@@ -1,10 +1,10 @@
-# 🚀 Chatbot for SIM Plan Details
+🚀 Chatbot for SIM Plan Details
 
 💬 An AI-powered chatbot that recommends the best telecom recharge plans based on **budget, validity, and SIM provider** (Airtel, Jio, VI).
 
 ---
 
-## 🏷️ Badges
+🏷️ Badges
 
 <p align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-## ✨ Features
+✨ Features
 
 * 💬 Chat-based UI
 * 📊 Smart recharge plan suggestions
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Layer    | Technology     |
 | -------- | -------------- |
@@ -45,7 +45,7 @@
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 📦 Chatbot-for-Sim-Plan-Details
@@ -63,7 +63,7 @@
 
 ---
 
-## ▶️ Installation
+▶️ Installation
 
 ```
 git clone https://github.com/Aditiyakesavaraj/Chatbot-for-Sim-Plan-Details.git
@@ -76,7 +76,7 @@ python3 app.py
 
 ---
 
-## 📦 requirements.txt
+📦 requirements.txt
 
 ```
 Flask==3.0.3
@@ -84,9 +84,9 @@ Flask==3.0.3
 
 ---
 
-## 🌐 Deployment
+🌐 Deployment
 
-### 🚀 Render
+🚀 Render
 
 * Build Command:
 
@@ -102,7 +102,7 @@ python3 app.py
 
 ---
 
-### 🚀 Railway
+🚀 Railway
 
 * Start Command:
 
@@ -112,7 +112,7 @@ python3 app.py
 
 ---
 
-## ⚙️ How It Works
+⚙️ How It Works
 
 1️⃣ User enters:
 
@@ -134,7 +134,7 @@ Data: 2GB/day, Validity: 28 days, Price: ₹299
 
 ---
 
-## 💡 Example Inputs
+💡 Example Inputs
 
 * Airtel,299,28 days
 * Jio,500,56 days
@@ -142,7 +142,7 @@ Data: 2GB/day, Validity: 28 days, Price: ₹299
 
 ---
 
-## ⚠️ Limitations
+⚠️ Limitations
 
 * Needs structured input
 * Static database
@@ -150,7 +150,7 @@ Data: 2GB/day, Validity: 28 days, Price: ₹299
 
 ---
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 * 🤖 NLP-based chatbot
 * 🌐 Live telecom APIs
@@ -159,13 +159,13 @@ Data: 2GB/day, Validity: 28 days, Price: ₹299
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Aditiya Kesavaraj**
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you like this project:
 
