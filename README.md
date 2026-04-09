@@ -117,7 +117,7 @@ python3 app.py
 1️⃣ User enters:
 
 ```
-Jio 300 28 days
+Jio,300,28 days
 ```
 
 2️⃣ Chatbot:
