@@ -64,28 +64,6 @@
 
 ---
 
-## ⚙️ How It Works
-
-1️⃣ User enters:
-
-```
-Jio 300 28 days
-```
-
-2️⃣ Chatbot:
-
-* Extracts values using regex
-* Identifies SIM
-* Queries database
-
-3️⃣ Output:
-
-```
-Data: 2GB/day, Validity: 28 days, Price: ₹299
-```
-
----
-
 ## ▶️ Installation
 
 ```
@@ -120,7 +98,7 @@ pip install -r requirements.txt
 * Start Command:
 
 ```
-python app.py
+python3 app.py
 ```
 
 ---
@@ -130,7 +108,29 @@ python app.py
 * Start Command:
 
 ```
-python app.py
+python3 app.py
+```
+
+---
+
+## ⚙️ How It Works
+
+1️⃣ User enters:
+
+```
+Jio 300 28 days
+```
+
+2️⃣ Chatbot:
+
+* Extracts values using regex
+* Identifies SIM
+* Queries database
+
+3️⃣ Output:
+
+```
+Data: 2GB/day, Validity: 28 days, Price: ₹299
 ```
 
 ---
