@@ -1,9 +1,5 @@
 # 🚀 Chatbot for SIM Plan Details
 
-<p align="center">
-  <img src="./a_banner_for_chatbot_for_sim_plan_details_featur.png" alt="Banner" width="100%">
-</p>
-
 💬 An AI-powered chatbot that recommends the best telecom recharge plans based on **budget, validity, and SIM provider** (Airtel, Jio, VI).
 
 ---
